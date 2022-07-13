@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "package": "mclogit",
+    "oncran": true
+  },
+  {
+    "package": "memisc",
+    "oncran": true
+  },
+  {
+    "package": "munfold",
+    "oncran": true
+  }
+]
