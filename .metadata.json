@@ -1,10 +1,10 @@
 [
   {
-    "package": "mclogit",
+    "package": "memisc",
     "oncran": true
   },
   {
-    "package": "memisc",
+    "package": "mclogit",
     "oncran": true
   },
   {
