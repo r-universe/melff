@@ -1,23 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "mclogit"]
 	path = mclogit
 	url = https://github.com/melff/mclogit
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "memisc"]
 	path = memisc
 	url = https://github.com/melff/memisc
-	shallow = true
 	subdir = pkg
-	registered = true
 [submodule "munfold"]
 	path = munfold
 	url = https://github.com/melff/munfold
-	shallow = true
 	subdir = pkg
-	registered = true
