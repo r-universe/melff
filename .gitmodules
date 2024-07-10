@@ -1,7 +1,18 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/melff/melff.r-universe.dev
 	branch = HEAD
+[submodule "EMfit"]
+	path = EMfit
+	url = https://github.com/melff/EMfit
+	subdir = pkg
+[submodule "iimm"]
+	path = iimm
+	url = https://github.com/melff/iimm
+[submodule "latpos"]
+	path = latpos
+	url = https://github.com/melff/latpos
+	subdir = pkg
 [submodule "mclogit"]
 	path = mclogit
 	url = https://github.com/melff/mclogit
@@ -9,6 +20,10 @@
 [submodule "memisc"]
 	path = memisc
 	url = https://github.com/melff/memisc
+	subdir = pkg
+[submodule "mpred"]
+	path = mpred
+	url = https://github.com/melff/mpred
 	subdir = pkg
 [submodule "munfold"]
 	path = munfold
