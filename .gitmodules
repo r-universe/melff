@@ -6,13 +6,13 @@
 	path = EMfit
 	url = https://github.com/melff/EMfit
 	subdir = pkg
+[submodule "RKernel"]
+	path = RKernel
+	url = https://github.com/melff/RKernel
+	subdir = pkg
 [submodule "iimm"]
 	path = iimm
 	url = https://github.com/melff/iimm
-[submodule "latpos"]
-	path = latpos
-	url = https://github.com/melff/latpos
-	subdir = pkg
 [submodule "mclogit"]
 	path = mclogit
 	url = https://github.com/melff/mclogit
