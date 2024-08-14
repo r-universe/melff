@@ -1,10 +1,9 @@
 {
   "id": 52676091,
   "created_at": "2024-07-10T14:07:30.000Z",
-  "repository_selection": "selected",
+  "repository_selection": "all",
   "permissions": {
     "metadata": "read",
     "statuses": "write"
-  },
-  "repositories": ["mclogit", "memisc", "EMfit", "munfold", "mplot", "iimm", "mpred", "RKernel"]
+  }
 }
